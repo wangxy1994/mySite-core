@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wangxy.site.manager.MysiteManagerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.64 s - in com.wangxy.site.manager.MysiteManagerApplicationTests

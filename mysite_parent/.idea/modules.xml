@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mysite_article/mysite_article.iml" filepath="$PROJECT_DIR$/mysite_article/mysite_article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite_base/mysite_base.iml" filepath="$PROJECT_DIR$/mysite_base/mysite_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite_common/mysite_common.iml" filepath="$PROJECT_DIR$/mysite_common/mysite_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite_manager/mysite_manager.iml" filepath="$PROJECT_DIR$/mysite_manager/mysite_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite_parent.iml" filepath="$PROJECT_DIR$/mysite_parent.iml" />
+    </modules>
+  </component>
+</project>

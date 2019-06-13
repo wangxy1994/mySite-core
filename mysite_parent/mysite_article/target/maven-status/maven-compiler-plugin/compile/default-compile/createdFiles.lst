@@ -1,0 +1,16 @@
+com\wangxy\site\article\entity\Article.class
+com\wangxy\site\article\mapper\ArticleMapper.class
+com\wangxy\site\article\controller\ChannelController.class
+com\wangxy\site\article\mapper\ChannelMapper.class
+com\wangxy\site\article\service\impl\ChannelServiceImpl.class
+com\wangxy\site\article\service\IChannelService.class
+com\wangxy\site\article\service\impl\ArticleServiceImpl.class
+com\wangxy\site\article\controller\ArticleController.class
+com\wangxy\site\article\mapper\ColumnMapper.class
+com\wangxy\site\article\service\IColumnService.class
+com\wangxy\site\article\controller\ColumnController.class
+com\wangxy\site\article\service\impl\ColumnServiceImpl.class
+com\wangxy\site\article\service\IArticleService.class
+com\wangxy\site\article\entity\Channel.class
+com\wangxy\site\article\ArticleApplication.class
+com\wangxy\site\article\entity\Column.class
