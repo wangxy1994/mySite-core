@@ -19,7 +19,7 @@ public class JwtFilter extends HandlerInterceptorAdapter {
     private JwtUtil jwtUtil;
 
     @Override
-    public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
+    public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) {
         System.out.println("经过JwtFilter");
         //微服务鉴权
 
@@ -38,21 +38,23 @@ public class JwtFilter extends HandlerInterceptorAdapter {
             if( header!=null ){
                 if(header.startsWith("Bearer ")){
                     String token = header.substring(7);
-                    Claims claims = jwtUtil.parseJWT(token);//获取载荷
-                    if(claims!=null){
-                        if(claims.get("roles").equals("admin")){//管理员身份
-                            request.setAttribute("admin_claims",claims);
+                    try{
+                        Claims claims = jwtUtil.parseJWT(token);//获取载荷
+                        if(claims!=null){
+                            if(claims.get("roles").equals("admin")){//管理员身份
+                                request.setAttribute("admin_claims",claims);
+                            }
+                            if(claims.get("roles").equals("user")){//普通用户
+                                request.setAttribute("user_claims",claims);
+                            }
                         }
-                        if(claims.get("roles").equals("user")){//普通用户
-                            request.setAttribute("user_claims",claims);
-                        }
+                    }catch (Exception e){
+                        throw new RuntimeException("令牌不正确！");
                     }
+
                 }
             }
+            return true;
         }
-
-
-
-        return true;
     }
 }

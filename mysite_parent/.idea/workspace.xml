@@ -1,7 +1,277 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd6ee6bc-f396-4ad3-b0ef-ed8c43d71665" name="Default Changelist" comment="" />
+    <list default="true" id="cd6ee6bc-f396-4ad3-b0ef-ed8c43d71665" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/mysite_article.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/ArticleApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/controller/ArticleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/controller/ChannelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/controller/ColumnController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/entity/Article.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/entity/Channel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/entity/Column.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/mapper/ArticleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/mapper/ChannelMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/mapper/ColumnMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/IArticleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/IChannelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/IColumnService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/impl/ArticleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/impl/ChannelServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/impl/ColumnServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/resources/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/resources/mapper/article/ArticleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/resources/mapper/article/ChannelMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/src/main/resources/mapper/article/ColumnMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/ArticleApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/controller/ArticleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/controller/ChannelController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/controller/ColumnController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/entity/Article.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/entity/Channel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/entity/Column.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/mapper/ArticleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/mapper/ChannelMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/mapper/ColumnMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/service/IArticleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/service/IChannelService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/service/IColumnService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/service/impl/ArticleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/service/impl/ChannelServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/com/wangxy/site/article/service/impl/ColumnServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/mapper/article/ArticleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/mapper/article/ChannelMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/classes/mapper/article/ColumnMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_article/target/mysite_article-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/mysite_base.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/BaseApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/controller/BaseExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/controller/LabelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/mapper/CityMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/mapper/CityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/mapper/LabelMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/mapper/LabelMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/mapper/UlMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/mapper/UlMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/pojo/City.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/pojo/CityExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/pojo/Label.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/pojo/LabelExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/pojo/UlExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/pojo/UlKey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/service/LabelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/BaseApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/controller/BaseExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/controller/LabelController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/mapper/CityMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/mapper/LabelMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/mapper/UlMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/CityExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/CityExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/CityExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/CityExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/Label.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/LabelExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/LabelExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/LabelExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/LabelExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/UlExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/UlExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/UlExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/UlExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/pojo/UlKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/classes/com/wangxy/base/service/LabelService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_base/target/mysite_base-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/mysite_common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/src/main/java/entity/PageResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/src/main/java/entity/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/src/main/java/entity/StatusCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/src/main/java/util/IdWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/src/main/java/util/JwtUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/target/classes/entity/PageResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/target/classes/entity/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/target/classes/entity/StatusCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/target/classes/util/IdWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/target/classes/util/JwtUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_common/target/mysite_common-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/mysite_manager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/MybatisPlusGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/MysiteManagerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/controller/AdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/controller/BaseExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/entity/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/filter/JwtFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/mapper/AdminMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/IAdminService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/IUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/impl/AdminServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/resources/mapper/manager/AdminMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/main/resources/mapper/manager/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/src/test/java/com/wangxy/site/manager/MysiteManagerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/MybatisPlusGenerator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/MybatisPlusGenerator$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/MybatisPlusGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/ApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/MysiteManagerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/WebSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/controller/AdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/controller/BaseExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/entity/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/filter/JwtFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/mapper/AdminMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/service/IAdminService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/service/IUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/service/impl/AdminServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/mapper/manager/AdminMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/classes/mapper/manager/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/mysite_manager-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/mysite_manager-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/surefire-reports/2019-06-09T21-25-33_969-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/surefire-reports/TEST-com.wangxy.site.manager.MysiteManagerApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/surefire-reports/com.wangxy.site.manager.MysiteManagerApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_manager/target/test-classes/com/wangxy/site/manager/MysiteManagerApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/tensquare_common/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/mysite/target/" />
@@ -10,6 +280,7 @@
     <ignored path="$PROJECT_DIR$/mysite_base/target/" />
     <ignored path="$PROJECT_DIR$/mysite_article/target/" />
     <ignored path="$PROJECT_DIR$/mysite_manager/target/" />
+    <ignored path="$PROJECT_DIR$/mysite_data/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,41 +367,79 @@
     <session id="1073597621">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="3" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.25" value="3" />
+          <entry key="project.open.time.26" value="4" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.30" value="4" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="3" />
+          <entry key="project.open.time.42" value="2" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="class" value="50" />
+          <entry key="java" value="186" />
+          <entry key="properties" value="8" />
+          <entry key="xml" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
-          <entry key="XML" value="1" />
+          <entry key="CLASS" value="50" />
+          <entry key="JAVA" value="186" />
+          <entry key="Properties" value="8" />
+          <entry key="XML" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="dummy" value="9" />
+          <entry key="java" value="2247" />
+          <entry key="properties" value="184" />
+          <entry key="xml" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="2247" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Properties" value="184" />
+          <entry key="XML" value="70" />
         </counts>
       </usages-collector>
     </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mysite_parent" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/controller/AdminController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="999">
+              <caret line="52" column="78" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,28 +448,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite_common/pom.xml">
+        <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/impl/ArticleServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="837">
+              <caret line="45" column="46" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/controller/UserController.java">
+        <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/MysiteManagerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="1782">
+              <caret line="82" column="46" selection-start-line="82" selection-start-column="33" selection-end-line="82" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -168,53 +468,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite_article/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="1188">
+              <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/filter/JwtFilter.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/impl/MarketFundServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="74">
+              <caret line="76" column="41" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/WebSecurityConfig.java">
+        <entry file="jar://D:/maven/repository/org/springframework/data/spring-data-redis/2.1.3.RELEASE/spring-data-redis-2.1.3.RELEASE.jar!/org/springframework/data/redis/core/DefaultValueOperations.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="189">
+              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/IAdminService.java">
+        <entry file="jar://D:/maven/repository/org/springframework/data/spring-data-redis/2.1.3.RELEASE/spring-data-redis-2.1.3.RELEASE.jar!/org/springframework/data/redis/core/AbstractOperations.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+            <state relative-caret-position="189">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/maven/repository/org/springframework/spring-webmvc/5.1.7.RELEASE/spring-webmvc-5.1.7.RELEASE.jar!/org/springframework/web/servlet/HandlerExecutionChain.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1809">
-              <caret line="84" selection-start-line="84" selection-end-line="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/controller/ArticleController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/IArticleService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -230,30 +530,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>tensquare_common</find>
-      <find>demotensquare</find>
-      <find>com.tensquare</find>
-      <find>tensquare_base</find>
-      <find>tensquare-article</find>
-      <find>_parameter</find>
-      <find>Example_Where_Clause</find>
-      <find>tensq</find>
-      <find>.\src</find>
-      <find>templatePath</find>
-      <find>pc</find>
-      <find>lo</find>
-      <find>mysite</find>
-      <find>&lt;groupId&gt;com.wangxy&lt;/groupId&gt;</find>
-      <find>UserDao</find>
-      <find>userDao</find>
-      <find>tip</find>
-      <find>&quot;/mysite_&quot;+module</find>
       <find>.findAll()</find>
       <find>findAll</find>
       <find>adminDao</find>
       <find>size</find>
       <find>packaging</find>
+      <find>LocalDateTime</find>
+      <find>findByMobileAndPassword</find>
+      <find>page</find>
+      <find>manager</find>
+      <find>Admin</find>
+      <find>ChannelDao</find>
+      <find>channelDao</find>
+      <find>articleList</find>
+      <find>channel</find>
+      <find>Article</find>
+      <find>Channel</find>
+      <find>手机号</find>
+      <find>amqp</find>
+      <find>spring.</find>
+      <find>Sms</find>
+      <find>短信</find>
       <find>jwtUtil</find>
+      <find>mobile</find>
+      <find>login</find>
+      <find>logo</find>
+      <find>delete</find>
+      <find>20001</find>
+      <find>System.out.</find>
+      <find>marketFundService.</find>
+      <find>redisTemplate</find>
     </findStrings>
     <replaceStrings>
       <replace>mysite_common</replace>
@@ -270,6 +576,21 @@
       <replace>adminMapper</replace>
       <replace>currentPage</replace>
       <replace>pageSize</replace>
+      <replace>User</replace>
+      <replace>Date</replace>
+      <replace>article</replace>
+      <replace>Article</replace>
+      <replace>ChannelMapper</replace>
+      <replace>channelMapper</replace>
+      <replace>channelList</replace>
+      <replace>column</replace>
+      <replace>Channel</replace>
+      <replace>Column</replace>
+      <replace>邮箱</replace>
+      <replace>Mail</replace>
+      <replace>邮件</replace>
+      <replace>mail</replace>
+      <replace>this.</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -278,43 +599,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mysite/src/main/resources/generator.xml" />
-        <option value="$PROJECT_DIR$/mysite/src/main/resources/generatorConfig.xml" />
-        <option value="$PROJECT_DIR$/mysite/src/main/java/com/wangxy/article/service/ArticleService.java" />
-        <option value="$PROJECT_DIR$/mysite/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/mysite/src/main/resources/com/wangxy/article/mapper/ChannelMapper.xml" />
-        <option value="$PROJECT_DIR$/mysite/src/main/java/MybatisPlusGenerator.java" />
-        <option value="$PROJECT_DIR$/mysite/src/main/java/com/wangxy/article/MybatisPlusGenerator.java" />
-        <option value="$PROJECT_DIR$/mysite/pom.xml" />
-        <option value="$PROJECT_DIR$/mysite/src/main/java/com/wangxy/site/article/MybatisPlusGenerator.java" />
-        <option value="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/MybatisPlusGenerator.java" />
-        <option value="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/mapper/ArticleMapper.java" />
-        <option value="$PROJECT_DIR$/mysite_article/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/mysite_manager/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/mysite_manager/MysiteManagerApplication.java" />
-        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/mysite_manager/service/UserService.java" />
-        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/mysite_manager/MybatisPlusGenerator.java" />
-        <option value="$PROJECT_DIR$/MybatisPlusGenerator.java" />
-        <option value="$PROJECT_DIR$/mysite_common/src/main/java/MybatisPlusGenerator.java" />
-        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/MybatisPlusGenerator.java" />
-        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/mapper/AdminMapper.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/mysite_base/pom.xml" />
-        <option value="$PROJECT_DIR$/mysite_article/pom.xml" />
-        <option value="$PROJECT_DIR$/mysite_common/pom.xml" />
-        <option value="$PROJECT_DIR$/mysite_manager/pom.xml" />
-        <option value="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/ArticleApplication.java" />
+        <option value="$PROJECT_DIR$/mysite_manager/src/test/java/com/wangxy/site/manager/SocketTest.java" />
+        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/mail/MaiListener.java" />
+        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/mail/MailUtil.java" />
         <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/ApplicationConfig.java" />
-        <option value="$PROJECT_DIR$/mysite_manager/src/main/resources/mapper/manager/AdminMapper.xml" />
-        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/MysiteManagerApplication.java" />
+        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/mysite_manager/src/main/resources/mapper/manager/UserMapper.xml" />
         <option value="$PROJECT_DIR$/mysite_common/src/main/java/util/JwtUtil.java" />
-        <option value="$PROJECT_DIR$/mysite_manager/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/controller/BaseExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/mysite_common/src/main/java/entity/StatusCode.java" />
+        <option value="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/impl/ChannelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/entity/Channel.java" />
+        <option value="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/controller/ColumnController.java" />
+        <option value="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/controller/ChannelController.java" />
+        <option value="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/entity/Column.java" />
+        <option value="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/entity/Article.java" />
+        <option value="$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/controller/BaseExceptionHandler.java" />
         <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/filter/JwtFilter.java" />
-        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/impl/AdminServiceImpl.java" />
-        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/IAdminService.java" />
-        <option value="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/controller/ArticleController.java" />
-        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/controller/BaseExceptionHandler.java" />
         <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/controller/ColumnController.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/mapper/ChannelMapper.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/controller/ArticleController.java" />
+        <option value="$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/controller/ArticleController.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/IMarketDataService.java" />
+        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/MybatisPlusGenerator.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/controller/FundListController.java" />
+        <option value="$PROJECT_DIR$/mysite_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/mysite_data/pom.xml" />
+        <option value="$PROJECT_DIR$/mysite_base/pom.xml" />
+        <option value="$PROJECT_DIR$/mysite_common/pom.xml" />
+        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/IMarketFundService.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/controller/MarketDataController.java" />
+        <option value="$PROJECT_DIR$/mysite_manager/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/impl/MarketFundServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/MysiteManagerApplication.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/ScheduledJob/MarketDataImport.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/HistoricalVaR.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/CommonCalUtil.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/util/BigDecimalUtil.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/entity/VaRResult.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/entity/VaRResultDtl.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/entity/VaRParam.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/DailyRateUtil.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/PortfolioCalUtil.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/HistoricalVaR.java" />
+        <option value="$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/AssetPriceUtil.java" />
+        <option value="$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mysite_article/pom.xml" />
       </list>
     </option>
   </component>
@@ -347,15 +682,6 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="mysite_manager" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mysite_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mysite_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -405,6 +731,189 @@
             <path>
               <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="ScheduledJob" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="risk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="risk" type="462c0819:PsiDirectoryNode" />
+              <item name="var" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="risk" type="462c0819:PsiDirectoryNode" />
+              <item name="var" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
               <item name="mysite_manager" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -457,6 +966,18 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="wangxy" type="462c0819:PsiDirectoryNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="mail" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
@@ -483,6 +1004,104 @@
               <item name="manager" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wangxy" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="mysite_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-webmvc:5.1.7.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -495,27 +1114,33 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="*application&#9;FILE&#9;file://E:/workspaceForIdea/mysite_parent/mysite_article/src/main/java/com/wangxy/site/article/ArticleApplication.java&#10;BaseMapper&#9;ACTION&#9;null&#10;tensquare&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="admincon&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_manager/src/main/java/com/wangxy/site/manager/controller/AdminController.java&#10;servlet&#9;FILE&#9;jar://D:/maven/repository/org/springframework/spring-webmvc/5.1.7.RELEASE/spring-webmvc-5.1.7.RELEASE.jar!/org/springframework/web/servlet&#10;controller&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_data/src/main/java/com/wangxy/site/data/controller/FundListController.java&#10;BaseExceptionHandler&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_manager/src/main/java/com/wangxy/site/manager/controller/BaseExceptionHandler.java&#10;ChannelService&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_article/src/main/java/com/wangxy/site/article/service/impl/ChannelServiceImpl.java&#10;Channel&#9;PSI&#9;JAVA://com.wangxy.site.article.entity.Channel&#10;user&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_manager/src/main/java/com/wangxy/site/manager/entity/User.java&#10;UserService&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_manager/src/main/java/com/wangxy/site/manager/service/impl/UserServiceImpl.java&#10;jwt&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_manager/src/main/java/com/wangxy/site/manager/filter/JwtFilter.java&#10;Article&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_article/src/main/java/com/wangxy/site/article/controller/ArticleController.java&#10;article&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_article/src/main/java/com/wangxy/site/article/service/impl/ArticleServiceImpl.java&#10;application&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_article/src/main/resources/application.properties&#10;mapper&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_manager/src/main/resources/mapper/manager/AdminMapper.xml&#10;articlemapp&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_article/src/main/resources/mapper/article/ArticleMapper.xml&#10;articleService&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_article/src/main/java/com/wangxy/site/article/service/impl/ArticleServiceImpl.java&#10;adminser&#9;FILE&#9;file://E:/workspaceForIdea/mysite_backend/mysite_parent/mysite_manager/src/main/java/com/wangxy/site/manager/service/impl/AdminServiceImpl.java&#10;UserMapper&#9;PSI&#9;JAVA://com.wangxy.site.manager.mapper.UserMapper&#10;*application&#9;FILE&#9;file://E:/workspaceForIdea/mysite_parent/mysite_article/src/main/java/com/wangxy/site/article/ArticleApplication.java&#10;BaseMapper&#9;ACTION&#9;null&#10;tensquare&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/wangxyWorkSpace/IRM" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.48045978" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.wangxy.article" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\workspaceForIdea\mysite_parent\mysite_manager\src\main\java\com\wangxy\site\mysite_manager" />
-      <recent name="E:\workspaceForIdea\mysite_parent\mysite_common\src\main\java\util" />
-      <recent name="E:\workspaceForIdea\mysite_parent\mysite\src\main\resources" />
+      <recent name="E:\workspaceForIdea\mysite_backend\mysite_parent\mysite_data\src\main\java\com\wangxy\site\data\service\risk\var" />
+      <recent name="E:\workspaceForIdea\mysite_backend\mysite_parent\mysite_data\src\main\java\com\wangxy\site\data\service\risk\var\entity" />
+      <recent name="E:\workspaceForIdea\mysite_backend\mysite_parent\mysite_data\src\main\java\com\wangxy\site\data\util" />
+      <recent name="E:\workspaceForIdea\mysite_backend\mysite_parent\mysite_data\src\main\java\com\wangxy\site\data\service\risk" />
+      <recent name="E:\workspaceForIdea\mysite_backend\mysite_parent\mysite_data\src\main\java\com\wangxy\site\data\service" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wangxy.site.data.service" />
+      <recent name="com.wangxy.site.article.controller" />
+      <recent name="com.wangxy.site.manager.controller" />
+      <recent name="" />
       <recent name="com.wangxy.site.mysite_manager" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -566,6 +1191,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MybatisPlusGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MybatisPlusGenerator" />
+      <module name="mysite_manager" />
+      <method v="2">
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArticleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="mysite_article" />
       <extension name="coverage">
@@ -604,14 +1236,15 @@
       <item itemvalue="Spring Boot.BaseApplication" />
       <item itemvalue="Spring Boot.ManagerApplication" />
       <item itemvalue="Spring Boot.MysiteManagerApplication" />
+      <item itemvalue="Application.MybatisPlusGenerator (1)" />
       <item itemvalue="Application.MybatisPlusGenerator" />
       <item itemvalue="Spring Boot.ArticleApplication" />
-      <item itemvalue="Application.MybatisPlusGenerator (1)" />
       <item itemvalue="Application.MybatisPlusGenerator (2)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MybatisPlusGenerator (2)" />
+        <item itemvalue="Application.MybatisPlusGenerator" />
         <item itemvalue="Application.MybatisPlusGenerator (1)" />
         <item itemvalue="Spring Boot.ArticleApplication" />
         <item itemvalue="Application.MybatisPlusGenerator" />
@@ -645,12 +1278,61 @@
       <workItem from="1560349276364" duration="596000" />
       <workItem from="1560381872697" duration="2667000" />
       <workItem from="1560435430350" duration="1297000" />
-      <workItem from="1560437317881" duration="1162000" />
+      <workItem from="1560437317881" duration="3487000" />
+      <workItem from="1560690902389" duration="1836000" />
+      <workItem from="1560727338119" duration="2531000" />
+      <workItem from="1560812712026" duration="595000" />
+      <workItem from="1560893686115" duration="6518000" />
+      <workItem from="1560955600299" duration="599000" />
+      <workItem from="1560983493386" duration="1775000" />
+      <workItem from="1561334161452" duration="1082000" />
+      <workItem from="1561383947644" duration="7130000" />
+      <workItem from="1561476658147" duration="3570000" />
+      <workItem from="1561505295749" duration="2371000" />
+      <workItem from="1561555784223" duration="1540000" />
+      <workItem from="1561678521710" duration="598000" />
+      <workItem from="1561875284998" duration="6742000" />
+      <workItem from="1561991224696" duration="3338000" />
+      <workItem from="1562017104606" duration="7246000" />
+      <workItem from="1562080595636" duration="774000" />
+      <workItem from="1562105488529" duration="1227000" />
+      <workItem from="1562195841615" duration="854000" />
+      <workItem from="1562254237446" duration="748000" />
+      <workItem from="1562280099720" duration="936000" />
+      <workItem from="1562369361071" duration="1368000" />
+      <workItem from="1562488185937" duration="8054000" />
+      <workItem from="1562539834374" duration="2327000" />
+      <workItem from="1562597884210" duration="771000" />
+      <workItem from="1562628602796" duration="821000" />
+      <workItem from="1562681017954" duration="2220000" />
+      <workItem from="1562768030091" duration="879000" />
+      <workItem from="1562772048509" duration="2722000" />
+      <workItem from="1562802017246" duration="1895000" />
+      <workItem from="1562890006846" duration="397000" />
+      <workItem from="1563116107608" duration="3065000" />
+      <workItem from="1563228547197" duration="3147000" />
+      <workItem from="1563319073348" duration="1666000" />
+      <workItem from="1563367460896" duration="16618000" />
+      <workItem from="1563407925010" duration="764000" />
+      <workItem from="1563459253720" duration="2478000" />
+      <workItem from="1563463409080" duration="1628000" />
+      <workItem from="1563492961659" duration="792000" />
+      <workItem from="1563625442119" duration="9427000" />
+      <workItem from="1563751134096" duration="5433000" />
+      <workItem from="1563894976687" duration="627000" />
+      <workItem from="1564010316062" duration="1807000" />
+      <workItem from="1564320685152" duration="1314000" />
+      <workItem from="1564355167364" duration="3521000" />
+      <workItem from="1574365201310" duration="914000" />
+      <workItem from="1577660423500" duration="1107000" />
+      <workItem from="1581251650837" duration="214000" />
+      <workItem from="1595216927872" duration="999000" />
+      <workItem from="1595756045820" duration="621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73355000" />
+    <option name="totallyTimeSpent" value="205286000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -662,36 +1344,36 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="1.0" visible="true" weight="0.29424307" />
-      <window_info id="Structure" order="1" sideWeight="1.0" side_tool="true" visible="true" weight="0.29424307" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47540984" visible="true" weight="0.22314675" />
+      <window_info id="Structure" order="1" sideWeight="0.52459013" side_tool="true" visible="true" weight="0.22314675" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Web" order="5" sideWeight="0.44578314" side_tool="true" weight="0.26972282" />
+      <window_info id="Favorites" order="4" sideWeight="0.50323623" side_tool="true" weight="0.1945629" />
+      <window_info id="Web" order="5" sideWeight="0.50323623" side_tool="true" weight="0.1945629" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.77558637" visible="true" weight="1.0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989339" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.60394454" weight="0.36225596" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989339" weight="0.32936078" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49840087" weight="0.3286334" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989339" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.22441365" side_tool="true" weight="0.28060672" />
-      <window_info anchor="bottom" id="Spring" order="11" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" sideWeight="0.4989339" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4978678" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Spring" order="11" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" sideWeight="0.49840087" weight="0.3286334" />
       <window_info anchor="bottom" id="Bean Validation" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49626866" weight="0.3286334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.16471216" />
+      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.115733735" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -707,6 +1389,31 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>asJsonArray.get(3).getAsString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sJsonArray.get(3).getAsString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>asJsonArray.get(3)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>user.getEmail()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>claims.getSubject()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -714,337 +1421,343 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/resources/mapper/article/ColumnMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/resources/generatorConfig.xml">
+    <entry file="file://$PROJECT_DIR$/mysite_common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="42" column="35" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/resources/mapper/article/ArticleMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/controller/ChannelController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/entity/Article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3402">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/IArticleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/maven/repository/com/baomidou/mybatis-plus-extension/3.1.1/mybatis-plus-extension-3.1.1.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/mapper/ArticleMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/maven/repository/com/baomidou/mybatis-plus-core/3.1.1/mybatis-plus-core-3.1.1.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/mapper/CityMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/mysite_manager/UserApplication.java" />
-    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="17" column="38" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/UserService.java" />
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/dao/UserDao.java" />
-    <entry file="jar://D:/maven/repository/com/baomidou/mybatis-plus-extension/3.1.0/mybatis-plus-extension-3.1.0.jar!/com/baomidou/mybatisplus/extension/plugins/pagination/Page.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/IUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/impl/ArticleServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/entity/Admin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/maven/repository/com/baomidou/mybatis-plus-extension/3.1.0/mybatis-plus-extension-3.1.0.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/controller/LabelController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/service/LabelService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_common/src/main/java/entity/PageResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/target/classes/com/wangxy/site/manager/controller/AdminController.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1059">
-          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_base/src/main/java/com/wangxy/base/BaseApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/mapper/AdminMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/ArticleApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/MybatisPlusGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2889">
-          <caret line="120" column="43" selection-start-line="120" selection-start-column="43" selection-end-line="120" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/resources/mapper/manager/AdminMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/ApplicationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_common/src/main/java/util/JwtUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/maven/repository/com/baomidou/mybatis-plus-extension/3.1.0/mybatis-plus-extension-3.1.0.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-843">
-          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/impl/AdminServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="84" column="32" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="32" />
+        <state relative-caret-position="648">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite_manager/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="40" column="44" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/controller/ArticleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_common/src/main/java/entity/Result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_base/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="2727">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite_base/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="35" column="21" selection-start-line="30" selection-start-column="8" selection-end-line="35" selection-end-column="21" />
+        <state relative-caret-position="1296">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_article/pom.xml">
+    <entry file="jar://D:/maven/repository/org/springframework/spring-context/5.1.7.RELEASE/spring-context-5.1.7.RELEASE.jar!/org/springframework/stereotype/Component.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="378">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/filter/JwtFilter.java">
+    <entry file="jar://D:/maven/repository/org/springframework/spring-context/5.1.7.RELEASE/spring-context-5.1.7.RELEASE.jar!/org/springframework/stereotype/Controller.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="324">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/WebSecurityConfig.java">
+    <entry file="jar://D:/maven/repository/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="351">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/IAdminService.java">
+    <entry file="jar://D:/maven/repository/org/springframework/spring-webmvc/5.1.7.RELEASE/spring-webmvc-5.1.7.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/spring-webmvc/5.1.7.RELEASE/spring-webmvc-5.1.7.RELEASE.jar!/org/springframework/web/servlet/HttpServletBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/javax/servlet/GenericServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="57" column="32" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5697">
+          <caret line="230" column="35" lean-forward="true" selection-start-line="230" selection-start-column="35" selection-end-line="230" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/spring-webmvc/5.1.7.RELEASE/spring-webmvc-5.1.7.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="76" column="35" lean-forward="true" selection-start-line="76" selection-start-column="35" selection-end-line="76" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_common/src/main/java/entity/Result.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/maven/repository/org/springframework/spring-webmvc/5.1.7.RELEASE/spring-webmvc-5.1.7.RELEASE.jar!/org/springframework/web/servlet/HandlerExecutionChain.class">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Observable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1809">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        <state relative-caret-position="3024">
+          <caret line="141" column="28" selection-start-line="141" selection-start-column="28" selection-end-line="141" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar!/org/slf4j/LoggerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="290" column="49" selection-start-line="290" selection-start-column="44" selection-end-line="290" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/com/google/gson/JsonObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1360">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/controller/MarketDataController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="62" column="37" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="1323">
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/entity/MarketFund.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/IMarketFundService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/MysiteManagerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/controller/FundListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/mail/MailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/CommonCalUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/util/BigDecimalUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/entity/VaRResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/entity/VaRResultCdf.java" />
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/entity/VaRResultDtlCdf.java" />
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/entity/VaRResultDtl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/entity/VaRParam.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/DailyRateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="67" column="35" lean-forward="true" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/PortfolioCalUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-829">
+          <caret line="27" column="49" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/HistoricalVaR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/risk/var/AssetPriceUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/ScheduledJob/MarketDataImport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/com/baomidou/mybatis-plus-extension/3.1.0/mybatis-plus-extension-3.1.0.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="85" column="28" lean-forward="true" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/com/baomidou/mybatis-plus-extension/3.1.0/mybatis-plus-extension-3.1.0.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/com/baomidou/mybatis-plus-core/3.1.0/mybatis-plus-core-3.1.0.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/impl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/controller/BaseExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/data/spring-data-redis/2.1.3.RELEASE/spring-data-redis-2.1.3.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/spring-core/5.1.7.RELEASE/spring-core-5.1.7.RELEASE.jar!/org/springframework/util/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/data/spring-data-redis/2.1.3.RELEASE/spring-data-redis-2.1.3.RELEASE.jar!/org/springframework/data/redis/core/ValueOperations.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/controller/AdminController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="999">
+          <caret line="52" column="78" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_common/pom.xml">
+    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/impl/ArticleServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="837">
+          <caret line="45" column="46" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="1782">
+          <caret line="82" column="46" selection-start-line="82" selection-start-column="33" selection-end-line="82" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite_manager/src/main/java/com/wangxy/site/manager/MysiteManagerApplication.java">
+    <entry file="file://$PROJECT_DIR$/mysite_article/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="1188">
+          <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/data/spring-data-redis/2.1.3.RELEASE/spring-data-redis-2.1.3.RELEASE.jar!/org/springframework/data/redis/core/DefaultValueOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/data/spring-data-redis/2.1.3.RELEASE/spring-data-redis-2.1.3.RELEASE.jar!/org/springframework/data/redis/core/AbstractOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/controller/ArticleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_article/src/main/java/com/wangxy/site/article/service/IArticleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite_data/src/main/java/com/wangxy/site/data/service/impl/MarketFundServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="76" column="41" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
         </state>
       </provider>
     </entry>

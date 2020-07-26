@@ -9,6 +9,7 @@
         <module name="mysite_article" />
         <module name="mysite_base" />
         <module name="mysite_common" />
+        <module name="mysite_data" />
         <module name="mysite_manager" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="mysite_article" target="1.8" />
       <module name="mysite_base" target="1.8" />
       <module name="mysite_common" target="1.8" />
+      <module name="mysite_data" target="1.8" />
       <module name="mysite_manager" target="1.8" />
       <module name="mysite_parent" target="1.8" />
     </bytecodeTargetLevel>

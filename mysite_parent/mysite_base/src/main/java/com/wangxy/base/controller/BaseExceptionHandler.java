@@ -10,6 +10,6 @@ public class BaseExceptionHandler {
     @ExceptionHandler(value = Exception.class)
     public Result error( Exception e){
         System.out.println(1025156);
-        return new Result(false, StatusCode.ERROR,e.getMessage());
+        return new Result(false, StatusCode.TOKENEXPIREDERROR,e.getMessage());
     }
 }

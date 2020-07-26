@@ -36,7 +36,7 @@ public class MybatisPlusGenerator {
     }
 
     public static void main(String[] args) {
-        String module = "/mysite_manager";
+        String module = "/mysite_data";
         // 代码生成器
         AutoGenerator mpg = new AutoGenerator();
 
@@ -60,7 +60,7 @@ public class MybatisPlusGenerator {
 
         // 包配置
         PackageConfig pc = new PackageConfig();
-        pc.setModuleName(scanner("模块名"));
+        pc.setModuleName("data");
         pc.setParent("com.wangxy.site");
         mpg.setPackageInfo(pc);
 
@@ -121,7 +121,7 @@ public class MybatisPlusGenerator {
         strategy.setEntityLombokModel(false);
         strategy.setRestControllerStyle(true);
         //strategy.setSuperControllerClass("com.wangxy.site.common.BaseController");
-        strategy.setInclude(scanner("表名，多个英文逗号分割").split(","));
+        strategy.setInclude(new String[] {"tb_market_fund","tb_fund_list"});
 //        strategy.setSuperEntityColumns("id");
         strategy.setControllerMappingHyphenStyle(true);
         strategy.setTablePrefix("tb" + "_");

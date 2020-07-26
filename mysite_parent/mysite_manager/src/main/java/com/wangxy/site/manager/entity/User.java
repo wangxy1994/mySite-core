@@ -1,8 +1,9 @@
 package com.wangxy.site.manager.entity;
 
 import com.baomidou.mybatisplus.annotation.TableName;
-import java.time.LocalDateTime;
+
 import java.io.Serializable;
+import java.util.Date;
 
 /**
  * <p>
@@ -45,7 +46,7 @@ public class User implements Serializable {
     /**
      * 出生年月日
      */
-    private LocalDateTime birthday;
+    private Date birthday;
 
     /**
      * 头像
@@ -60,17 +61,17 @@ public class User implements Serializable {
     /**
      * 注册日期
      */
-    private LocalDateTime regdate;
+    private Date regdate;
 
     /**
      * 修改日期
      */
-    private LocalDateTime updatedate;
+    private Date updatedate;
 
     /**
      * 最后登陆日期
      */
-    private LocalDateTime lastdate;
+    private Date lastdate;
 
     /**
      * 在线时长（分钟）
@@ -132,11 +133,11 @@ public class User implements Serializable {
     public void setSex(String sex) {
         this.sex = sex;
     }
-    public LocalDateTime getBirthday() {
+    public Date getBirthday() {
         return birthday;
     }
 
-    public void setBirthday(LocalDateTime birthday) {
+    public void setBirthday(Date birthday) {
         this.birthday = birthday;
     }
     public String getAvatar() {
@@ -153,25 +154,25 @@ public class User implements Serializable {
     public void setEmail(String email) {
         this.email = email;
     }
-    public LocalDateTime getRegdate() {
+    public Date getRegdate() {
         return regdate;
     }
 
-    public void setRegdate(LocalDateTime regdate) {
+    public void setRegdate(Date regdate) {
         this.regdate = regdate;
     }
-    public LocalDateTime getUpdatedate() {
+    public Date getUpdatedate() {
         return updatedate;
     }
 
-    public void setUpdatedate(LocalDateTime updatedate) {
+    public void setUpdatedate(Date updatedate) {
         this.updatedate = updatedate;
     }
-    public LocalDateTime getLastdate() {
+    public Date getLastdate() {
         return lastdate;
     }
 
-    public void setLastdate(LocalDateTime lastdate) {
+    public void setLastdate(Date lastdate) {
         this.lastdate = lastdate;
     }
     public Long getOnline() {

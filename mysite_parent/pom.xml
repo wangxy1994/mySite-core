@@ -8,6 +8,7 @@
         <module>mysite_base</module>
         <module>mysite_article</module>
         <module>mysite_manager</module>
+        <module>mysite_data</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

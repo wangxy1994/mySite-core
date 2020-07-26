@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/mysite_article/mysite_article.iml" filepath="$PROJECT_DIR$/mysite_article/mysite_article.iml" />
       <module fileurl="file://$PROJECT_DIR$/mysite_base/mysite_base.iml" filepath="$PROJECT_DIR$/mysite_base/mysite_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/mysite_common/mysite_common.iml" filepath="$PROJECT_DIR$/mysite_common/mysite_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite_data/mysite_data.iml" filepath="$PROJECT_DIR$/mysite_data/mysite_data.iml" />
       <module fileurl="file://$PROJECT_DIR$/mysite_manager/mysite_manager.iml" filepath="$PROJECT_DIR$/mysite_manager/mysite_manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/mysite_parent.iml" filepath="$PROJECT_DIR$/mysite_parent.iml" />
     </modules>

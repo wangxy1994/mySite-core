@@ -67,6 +67,7 @@ public class AdminController {
         Admin admin = adminService.findByLoginName(claims.getSubject());
         Map map=new HashMap();
         map.put("name",admin.getLoginname());
+        map.put("id",admin.getId());
         map.put("roles","admin");
 
         return new Result(true,StatusCode.OK,"查询成功",map);
@@ -149,4 +150,6 @@ public class AdminController {
         }
 
     }
+
+
 }
